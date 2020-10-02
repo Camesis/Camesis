@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# Here are some ideas to get you started:
 ###  I’m currently working on 
 ## <img src = "https://http.cat/404">
 ### 🌱 I’m currently learning Python; Ruby; Java; Nodejs
