@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cameasy)](https://github.com/anuraghazra/github-readme-stats)
 ###  I’m currently working on 
 ## <img src = "https://http.cat/404">
 ### 🌱 I’m currently learning Python; Ruby; Java; Nodejs
