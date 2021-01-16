@@ -9,3 +9,4 @@
 ### 💬 Ask me about Grogu <p> <img src = "https://i.giphy.com/media/X58aNIz288nhDcCM7l/giphy.webp"> </p>
 
 ### ⚡ Fun fact: Felipe199903 is my master Yoda
+<img src=".github/404notfound.jpg">
