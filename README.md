@@ -6,6 +6,6 @@
 
 ### 🌱 I’m currently learning Python; Ruby; Java; Nodejs
 
-### 💬 Ask me about Baby yoda <p> <img src = "https://i.giphy.com/media/X58aNIz288nhDcCM7l/giphy.webp"> </p>
+### 💬 Ask me about Grogu <p> <img src = "https://i.giphy.com/media/X58aNIz288nhDcCM7l/giphy.webp"> </p>
 
 ### ⚡ Fun fact: Felipe199903 is my master Yoda
