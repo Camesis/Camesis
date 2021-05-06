@@ -1,12 +1,20 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-###  I’m currently working on 
-<img src=".github/404notfound.jpg">
 
-### 🌱 I’m currently learning Python; Ruby; Java; Nodejs
+<img src="https://www.facebook.com/photo.php?fbid=2173436819552251&set=pb.100006578613951.-2207520000..&type=3" width="48%" align="right"/>
 
-### 💬 Ask me about Grogu <p> <img src = "https://i.giphy.com/media/X58aNIz288nhDcCM7l/giphy.webp"> </p>
+<p> Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 4 anos de cursados em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e um sobre mim é: Acredito que devaneios aleatórios criam as melhores bases para ideias inovadoras. Ah, Python é a melhor linguagem de programação sim. Quase certificada em inglês, mas sou apaixonada em espanhol | (Quando pensar em mais cosias adiciono aqui para os curiosos - Just kidding) </p>
 
-### ⚡ Fun fact: Felipe199903 is my master Yoda
-<img src=".github/Googledate.jpg">
+> <p> My name is <strong> Camila Correia </strong> I am 20 years old and I already have 4 years of courses in IT, because I started to be interested in this area since I was very young. I am fascinated by technology, more specifically by programming and one fact about me is: I believe that random daydreams create the best basis for innovative ideas. Ah, Python is the best programming language, yes. Almost certified in English, but I'm passionate about Spanish | (When I found of more things I add here for the curious - Just kidding) </p>
+
+## Minhas Paixões | My Passions
+
+- Música | Music :headphones:
+- Programação | Programming :computer:
+- Livros | Books :books:
+- Estudar | To study :open_book:
+- Café | Coffee :coffee:
+- Halloween :jack_o_lantern:
+
+# <img alt="GIT" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="60" height="60"  /> <img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="60" height="60"  /> <img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="60" height="60" /> <img alt="JS" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  width="60" height="60"  /> <img alt="TS" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  width="60" height="60"  /> <img alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  width="60" height="60"  /> <img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"  width="60" height="60"  /> 
