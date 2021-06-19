@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.18169-9/29542212_2173436819552251_6881682999642682159_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeHthPDb_z-vVWmeWuTNBOxh__v4AzvWM1b_-_gDO9YzVkUONgTNr4d1zWcZmQSE2sUMpIcsUTfr9fK8XKTX_Xhx&_nc_ohc=56iU2CrXY6kAX8Wil2W&_nc_ht=scontent-gru2-2.xx&oh=c8eb9c1552a3744999957e375b5bea23&oe=60B9DF19https://scontent.fgru6-1.fna.fbcdn.net/v/t1.6435-9/119889836_2923895347839724_5406303951140904190_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=umHrIq_l6SoAX8ZpgWr&_nc_ht=scontent.fgru6-1.fna&oh=488b03a7984c53dfb264b82924e668f5&oe=60D2D91C" width="48%" align="right"/>
+<img src="https://github.com/Cameasy/Cameasy/blob/main/Cami.jpg" width="48%" align="right"/>
 
 <p> Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 4 anos de cursados em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e um sobre mim é: Acredito que devaneios aleatórios criam as melhores bases para ideias inovadoras. Ah, Python é a melhor linguagem de programação sim. Quase certificada em inglês, mas sou apaixonada em espanhol | (Quando pensar em mais cosias adiciono aqui para os curiosos - Just kidding) </p>
 
