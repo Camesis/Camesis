@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/Cameasy/Cameasy/blob/main/Camz.jfif" width="300" height="600" align="right"/>
+<img src="https://github.com/Cameasy/Cameasy/blob/main/Camz.jpeg" width="300" height="600" align="right"/>
 
 <p> Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 4 anos de cursados em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e um fato sobre mim é: Acredito que devaneios aleatórios criam as melhores bases para ideias inovadoras. Ah, Python é a melhor linguagem de programação sim. Quase certificada em inglês, mas uma estudante apaixonada por espanhol | (Quando pensar em mais cosias adiciono aqui para os curiosos - Just kidding) </p>
 
