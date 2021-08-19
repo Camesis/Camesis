@@ -1,6 +1,6 @@
 ### Camila Correia - Aspirante ^ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <a href="https://www.linkedin.com/in/camila-correiars/" target="_blank"><img src="https://github.com/Cameasy/Cameasy/blob/main/.github/Linkedin-Splash.png" width="100px" height="100px"/> </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://github.com/Cameasy/Cameasy/blob/main/Camz.jpeg" width="300" height="550" align="right"/>
