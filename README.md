@@ -1,5 +1,7 @@
 ### Camila Correia - Aspirante ^
 
+# <img src="https://github.com/Cameasy/Cameasy/blob/main/.github/Linkedin-Splash.png" width="60px" height="60px"/> <img src="https://github.com/Cameasy/Cameasy/blob/main/.github/Splash-Facebook-Icon-Png.png" width="60px" height="60px"/> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github.com/Cameasy/Cameasy/blob/main/Camz.jpeg" width="300" height="550" align="right"/>
