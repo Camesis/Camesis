@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Cameasy/Cameasy/blob/main/Camz.jpeg" width="300" height="550" align="right" alt="O primeiro bug"/>
 
-<p> Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 4 anos de cursados em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e um fato sobre mim é: Acredito que devaneios aleatórios criam as melhores bases para ideias inovadoras. Ah, Python é a melhor linguagem de programação sim. Quase certificada em inglês, mas uma estudante apaixonada por espanhol | (Quando pensar em mais cosias adiciono aqui para os curiosos - Just kidding) </p>
+<p> Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 5 anos de cursados em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e um fato sobre mim é: Acredito que devaneios aleatórios criam as melhores bases para ideias inovadoras. Ah, Python é a melhor linguagem de programação sim. Quase certificada em inglês, mas uma estudante apaixonada por espanhol | (Quando pensar em mais cosias adiciono aqui para os curiosos - Just kidding) </p>
 
 > <p> My name is <strong>Camila Correia</strong> I'm 20 years old and I already have 4 years of courses in IT, because I started to be interested in this area from a very young age. I'm Fascinated by technology, more specifically by programming and a fact about me is: I believe random daydreams create the best foundations for innovative ideas. Ah, Python is the best programming language yes. Almost certified in English, but a student in love with Spanish | (When I think of more things I'll add here for the curious - Just kidding) </p>
 
