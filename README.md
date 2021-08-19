@@ -18,3 +18,8 @@
 - Halloween :jack_o_lantern:
 
 # <img alt="GIT" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="60" height="60"  /> <img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="60" height="60"  /> <img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="60" height="60" /> <img alt="JS" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  width="60" height="60"  /> <img alt="TS" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  width="60" height="60"  /> <img alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  width="60" height="60"  /> <img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"  width="60" height="60"  /> 
+
+<br>
+<div align="center">
+<img src="https://github.com/Plankiton/Plankiton/blob/output/github-contribution-grid-snake.svg?raw=true"/>
+</div>
