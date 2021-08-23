@@ -17,9 +17,6 @@
 ## Minhas Paixões | My Passions
 
 - Música | Music :headphones: 
-- 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipe199903)](https://github.com/anuraghazra/github-readme-stats)
-
 - Programação | Programming :computer:
 - Livros | Books :books:
 - Estudar | To study :open_book:
