@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/camila-correiars/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple)](https://github.com/Cameasy/Cameasy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact)](https://github.com/Cameasy/Cameasy)
 
 
