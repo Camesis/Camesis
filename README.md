@@ -5,7 +5,11 @@
   <a href="https://www.linkedin.com/in/camila-correiars/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact)](https://github.com/Cameasy/Cameasy)
+ <div>
+  <a href="https://github.com/Cameasy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cameasy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameasy&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 
 <img src="https://github.com/Cameasy/Cameasy/blob/main/Camz.jpeg" width="300" height="550" align="right" alt="O primeiro bug"/>
