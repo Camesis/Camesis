@@ -29,15 +29,15 @@ Algo que cultivo é que nós somos um aglomerado de células, mas também somos 
 
 > <p> My name is <strong>Camila Correia </strong> I am 20 years old and I have 4 years in courses in computer science, because from a very young age I started to be interested in this area. I'm fascinated by technology, specifically by programming and I've been investing a lot in studies to become a professional in the field.
 
-I am passionate about learning new things and learning about new cultures, so I dedicate my free time to studying foreign languages and reading.
+> I am passionate about learning new things and learning about new cultures, so I dedicate my free time to studying foreign languages and reading.
 
-I actively work on volunteer projects, showing solidarity to help, collect and give to those most in need, as I believe hope and compassion can change the world.
+> I actively work on volunteer projects, showing solidarity to help, collect and give to those most in need, as I believe hope and compassion can change the world.
 
-One thing I cultivate is that we are a cluster of cells, but we are also the stories we live and share with others. What you live will forever be a part of you, but it will never be what defines you, so that's why no matter how much I talk about myself here, I sincerely hope one day I can show you some of my essence, reader .
+> One thing I cultivate is that we are a cluster of cells, but we are also the stories we live and share with others. What you live will forever be a part of you, but it will never be what defines you, so that's why no matter how much I talk about myself here, I sincerely hope one day I can show you some of my essence, reader .
 
-<p>{ Contacts }</p>
+> <p>{ Contacts }</p>
 
-<p>✉E-mail: camila.correia662@gmail.com </p>
+> <p>✉E-mail: camila.correia662@gmail.com </p>
 
 ## Minhas Paixões | My Passions
 
