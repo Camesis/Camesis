@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/camila-correiars/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camila Correia&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camila&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cameasy&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
