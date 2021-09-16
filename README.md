@@ -13,7 +13,7 @@
 </div>
 
 
-<img src="https://github.com/Cameasy/Cameasy/blob/main/Camz.jpg" width="300" height="550" align="right" alt="O primeiro bug"/>
+<img src="https://github.com/Cameasy/Cameasy/blob/main/Camz.jpg" width="839px" height="629px" align="right" alt="O primeiro bug"/>
 
 Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 4 anos de cursados em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e venho investindo muito em estudos para me tornar uma profissional da área.
 
