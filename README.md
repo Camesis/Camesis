@@ -1,5 +1,5 @@
 <div>
-<img src="assets/header.png" width="900px">
+<img src="assets/header.png" width="600px">
 </div>
 <br><br>
 <div>
