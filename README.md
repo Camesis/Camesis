@@ -1,4 +1,7 @@
-### Camila Correia - Aspirante ^ 
+<div>
+<img src="assets/header.png">
+</div>
+<br><br>
 <div>
   <a href="https://www.instagram.com/camiladeschrodinger/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:camila.correia662@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -13,26 +16,16 @@
 </div>
 
 
-<img src="camz-avatar.png" width="500px" height="550px" align="right" alt="Avatar anime"/>
+<img src="assets/code-girl.svg" width="400px" height="500px" align="right" alt="code-girl"/>
 
-Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 4 anos de cursados em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e venho investindo muito em estudos para me tornar uma profissional da área.
+## Aspirante ^ 
+Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 6 anos de estudos em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e venho investindo muito em estudos para me tornar uma profissional da área.
 
-Sou apaixonada em aprender coisas novas e conhecer novas culturas, por isso dedico meu tempo livre em estudar línguas de outros países e ler.
+Sou apaixonada em aprender coisas novas e conhecer novas culturas, por isso dedico meu tempo livre em estudar.
 
-Atuo ativamente em projetos voluntários, me solidarizando a ajudar, arrecadar e doar aos mais necessitados, pois acredito que a esperança e compaixão pode sim mudar o mundo.
+> My name is <strong>Camila Correia </strong> I am 20 years old and I have 6 years of studies in computer science, because from a very young age I started to be interested in this area. I'm fascinated by technology, specifically by programming and I've been investing a lot in studies to become a professional in the field.
 
-Algo que cultivo é que nós somos um aglomerado de células, mas também somos as histórias que vivemos e compartilhamos com os outros. O que você vive vai eternamente fazer parte de você, mas nunca vai ser o que define você, então é por isso que não importa o quanto eu fale sobre mim aqui, espero de coração um dia poder mostrar um pouco da minha essência para você, leitor(a).
-
-
-
-> My name is <strong>Camila Correia </strong> I am 20 years old and I have 4 years in courses in computer science, because from a very young age I started to be interested in this area. I'm fascinated by technology, specifically by programming and I've been investing a lot in studies to become a professional in the field.
-
-> I am passionate about learning new things and learning about new cultures, so I dedicate my free time to studying foreign languages and reading.
-
-> I actively work on volunteer projects, showing solidarity to help, collect and give to those most in need, as I believe hope and compassion can change the world.
-
-> One thing I cultivate is that we are a cluster of cells, but we are also the stories we live and share with others. What you live will forever be a part of you, but it will never be what defines you, so that's why no matter how much I talk about myself here, I sincerely hope one day I can show you some of my essence, reader .
-
+> I am passionate about learning new things and learning about new cultures, so I dedicate my free time to studying.
 
 ## Minhas Paixões | My Passions
 
@@ -43,8 +36,7 @@ Algo que cultivo é que nós somos um aglomerado de células, mas também somos 
 - Café | Coffee :coffee:
 - Halloween :jack_o_lantern:
 
-# <img alt="GIT" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="60" height="60"  /> <img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="60" height="60"  /> <img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="60" height="60" /> <img alt="JS" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  width="60" height="60"  /> <img alt="TS" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  width="60" height="60"  /> <img alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  width="60" height="60"  /> <img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"  width="60" height="60"  /> 
-
+# <img alt="GIT" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="40" height="40"  /> <img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="40" height="40"  /> <img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40" height="40" /> <img alt="js" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /> <img alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /> <img alt="GO" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" /> <img alt="ruby" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" height="40" /> <img alt="MONGODB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" /><img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> 
 <br>
 
 
