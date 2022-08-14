@@ -1,5 +1,5 @@
 <div>
-<img src="assets/header.png" width="800px">
+<img src="assets/hello-world-sf.png">
 </div>
 <br><br>
 <div>
@@ -10,22 +10,23 @@
 
  <div>
   <a href="https://github.com/Cameasy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cameasy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cameasy&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cameasy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cameasy&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
 
 <img src="assets/code-girl.svg" width="400px" height="500px" align="right" alt="code-girl"/>
 
-## Aspirante ^ 
-Meu nome é <strong>Camila Correia</strong> tenho 20 anos e já possuo 6 anos de estudos em T.I, pois comecei a me interessar por essa área desde muito nova. Sou Fascinada por tecnologia, mais especificamente por programação e venho investindo muito em estudos para me tornar uma profissional da área.
+## Padawan 
+Sou a <strong>Camila</strong>, tenho 21 anos e estudo tecnologia desde os 13.
+Sempre fui muito curiosa e autodidata, então o "Não sei" não existe no meu vocabulário, pois estou sempre atrás das respostas.
+Isso me trouxe até aprogramação, onde estou sempre atrás de solções para o grande bug da vida real.
 
-Sou apaixonada em aprender coisas novas e conhecer novas culturas, por isso dedico meu tempo livre em estudar.
+<!-- abstract -->
 
-> My name is <strong>Camila Correia </strong> I am 20 years old and I have 6 years of studies in computer science, because from a very young age I started to be interested in this area. I'm fascinated by technology, specifically by programming and I've been investing a lot in studies to become a professional in the field.
-
-> I am passionate about learning new things and learning about new cultures, so I dedicate my free time to studying.
+> I'm Camila, I'm 21 years old and I've been studying technology since I was 13. I've always been very curious and self-taught, so "I don't know" is not in my vocabulary, as I'm always looking for answers. 
+> This brought me into programming, where I'm always looking for solutions to the big bug in real life.
 
 ## Minhas Paixões | My Passions
 
@@ -34,7 +35,7 @@ Sou apaixonada em aprender coisas novas e conhecer novas culturas, por isso dedi
 - Livros | Books :books:
 - Estudar | To study :open_book:
 - Café | Coffee :coffee:
-- Halloween :jack_o_lantern:
+- Outono | Autumn :fallen_leaf:
 
 # <img alt="GIT" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="40" height="40"  /> <img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="40" height="40"  /> <img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40" height="40" /> <img alt="js" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /> <img alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /> <img alt="GO" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" /> <img alt="MONGODB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" /><img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> <img alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" /> <img alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img alt="wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" height="40" /> <img alt="node-js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /> 
 <br>
