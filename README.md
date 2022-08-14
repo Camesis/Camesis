@@ -1,5 +1,5 @@
 <div>
-<img src="assets/hello-world-sf.png">
+<img src="assets/hello-world-sf.png" align="center">
 </div>
 <br><br>
 <div>
