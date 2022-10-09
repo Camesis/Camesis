@@ -14,7 +14,7 @@
 </div>
 
 
-<a href="https://app.daily.dev/DailyDevTips" src="https://github.com/Cameasy/Cameasy/devcard.svg" width="400" alt="Camila's Dev Card"></a>
+<a href="https://app.daily.dev/DailyDevTips" src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" width="400" alt="Camila's Dev Card"></a>
 
 ## Padawan 
 Sou a <strong>Camila</strong>, tenho 21 anos e estudo tecnologia desde os 13.
