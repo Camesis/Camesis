@@ -11,7 +11,7 @@
 </div>
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="400" alt="Camila's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="256" alt="Camila's Dev Card"/></a>
 
 ## Padawan 
 Sou a <strong>Camila</strong>, tenho 21 anos e estudo tecnologia desde os 13.
@@ -33,5 +33,5 @@ Isso me trouxe até aprogramação, onde estou sempre atrás de solções para o
 </div>
 
 <div align="center">
-<img src="https://github.com/Plankiton/Plankiton/blob/output/github-contribution-grid-snake.svg?raw=true"/>
+![Achievements](https://raw.githubusercontent.com/Cameasy/Cameasy/github-metrics/achievements.svg)
 </div>
