@@ -29,7 +29,7 @@ Isso me trouxe até aprogramação, onde estou sempre atrás de solções para o
 </div>
 
 <div>
-<img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/achievements.svg" alt="Metrics" width="400">
+<img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/achievements.svg" alt="Achivements" width="400">
 </div>
 
 <div align="center">
