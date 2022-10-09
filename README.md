@@ -26,11 +26,11 @@ Isso me trouxe até aprogramação, onde estou sempre atrás de solções para o
 > I'm Camila, I'm 21 years old and I've been studying technology since I was 13. I've always been very curious and self-taught, so "I don't know" is not in my vocabulary, as I'm always looking for answers. 
 > This brought me into programming, where I'm always looking for solutions to the big bug in real life.
 
-
+<br>
+<br>
 
 # <img alt="GIT" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="40" height="40"  /> <img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="40" height="40"  /> <img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40" height="40" /> <img alt="js" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /> <img alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /> <img alt="GO" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40" /> <img alt="MONGODB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" /><img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> <img alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" /> <img alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img alt="wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" height="40" /> <img alt="node-js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /> 
-<br>
-<br>
+
 
 
 <div align="center">
