@@ -8,10 +8,11 @@
 
  <div>
 <img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/github-metrics.svg" alt="Metrics" width="400">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="300" alt="Camila's Dev Card"/></a>
 </div>
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="300" alt="Camila's Dev Card"/></a>
+
 
 ## Padawan 
 Sou a <strong>Camila</strong>, tenho 21 anos e estudo tecnologia desde os 13.
