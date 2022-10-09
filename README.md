@@ -33,6 +33,6 @@ Isso me trouxe até aprogramação, onde estou sempre atrás de solções para o
 </div>
 
 <div align="center">
-<img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/achievements.svg" alt="Metrics" width="400">
+<img src="https://github.com/Plankiton/Plankiton/blob/output/github-contribution-grid-snake.svg?raw=true"/>
 </div>
 
