@@ -29,9 +29,10 @@ Isso me trouxe até aprogramação, onde estou sempre atrás de solções para o
 </div>
 
 <div>
-<img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/achievements.svg" alt="Achivements" width="400">
+<img src="https://github.com/Cameasy/Cameasy/blob/main/achievements.svg" alt="Achievements" width="100%">
 </div>
 
 <div align="center">
-![Achievements](https://raw.githubusercontent.com/Cameasy/Cameasy/github-metrics/achievements.svg)
+<img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/achievements.svg" alt="Metrics" width="400">
 </div>
+
