@@ -7,7 +7,7 @@
 </div>
 
  <div>
- ![Metrics](https://github.com/Cameasy/Cameasy/github-metrics.svg)
+<img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/github-metrics.svg" alt="Metrics" width="400">
 </div>
 
 
@@ -29,7 +29,7 @@ Isso me trouxe até aprogramação, onde estou sempre atrás de solções para o
 </div>
 
 <div>
-![Achievements](https://github.com/Cameasy/Cameasy/achievements.svg)
+<img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/achievements.svg" alt="Metrics" width="400">
 </div>
 
 <div align="center">
