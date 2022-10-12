@@ -8,7 +8,7 @@
 
  <div>
 <img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/github-metrics.svg" alt="Metrics" width="400">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="300" alt="Camila's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="256" alt="Camila's Dev Card"/></a>
 </div>
 
 
