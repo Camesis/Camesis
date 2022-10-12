@@ -8,7 +8,7 @@
 
  <div>
 <img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/github-metrics.svg" alt="Metrics" width="400">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="256" alt="Camila's Dev Card"/></a>
+<a href="https://app.daily.dev/Cameasy"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="300" alt="Camila's Dev Card"/></a>
 </div>
 
 
@@ -17,7 +17,7 @@
 ## Padawan 
 Sou a <strong>Camila</strong>, tenho 21 anos e estudo tecnologia desde os 13.
 Sempre fui muito curiosa e autodidata, então o "Não sei" não existe no meu vocabulário, pois estou sempre atrás das respostas.
-Isso me trouxe até aprogramação, onde estou sempre atrás de solções para o grande bug da vida real.
+Isso me trouxe até a programação, onde estou sempre atrás de solções para o grande bug da vida real.
 
 <!-- abstract -->
 
