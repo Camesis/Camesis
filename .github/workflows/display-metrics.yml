@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Cameasy
+          user: Camesis
           template: classic
           base: ""
           config_display: large
