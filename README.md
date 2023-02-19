@@ -6,8 +6,8 @@
 </div>
 
  <div>
-<img align="center" src="https://github.com/Cameasy/Cameasy/blob/main/github-metrics.svg" alt="Metrics" width="400">
-<a href="https://app.daily.dev/Cameasy"><img src="https://github.com/Cameasy/Cameasy/blob/main/devcard.svg" align="right" width="300" alt="Camila's Dev Card"/></a>
+<img align="center" src="https://github.com/Camesis/Camesis/blob/main/github-metrics.svg" alt=" Camila's Metrics" width="400">
+<a href="https://app.daily.dev/Camesis"><img src="https://github.com/Camesis/Camesis/blob/main/devcard.svg" align="right" width="300" alt="Camila's Dev Card"/></a>
 </div>
 
 
@@ -25,7 +25,7 @@ Isso me trouxe até a programação, onde estou sempre atrás de solções para 
 
 
 <div>
-<img src="https://github.com/Cameasy/Cameasy/blob/main/achievements.svg" alt="Achievements" width="100%">
+<img src="https://github.com/Camesis/Camesis/blob/main/achievements.svg" alt="Achievements" width="100%">
 </div>
 
 
