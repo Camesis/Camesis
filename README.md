@@ -14,14 +14,12 @@
 
 
 ## Padawan 
-Sou a <strong>Camila</strong>, tenho 21 anos e estudo tecnologia desde os 13.
-Sempre fui muito curiosa e autodidata, então o "Não sei" não existe no meu vocabulário, pois estou sempre atrás das respostas.
-Isso me trouxe até a programação, onde estou sempre atrás de solções para o grande bug da vida real.
+Sou a <strong>Camila</strong>, tenho 22 anos e estudo tecnologia desde os 13. Sempre fui muito curiosa e autodidata, então o "Não sei" não existe no meu vocabulário, pois estou sempre em busca de respostas. Isso me levou à programação, onde estou constantemente procurando soluções para os grandes desafios da vida real.
 
 <!-- abstract -->
 
-> I'm Camila, I'm 21 years old and I've been studying technology since I was 13. I've always been very curious and self-taught, so "I don't know" is not in my vocabulary, as I'm always looking for answers. 
-> This brought me into programming, where I'm always looking for solutions to the big bug in real life.
+> I'm <strong>Camila</strong>, I'm 22 years old and I've been studying technology since I was 13. I've always been very curious and self-taught, so "I don't know" doesn't exist in my vocabulary, as I'm always looking for answers.
+> This led me to programming, where I am constantly looking for solutions to big real-life challenges.
 
 
 <div>
