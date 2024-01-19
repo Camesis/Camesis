@@ -14,12 +14,15 @@
 
 
 ## Padawan 
-Sou a <strong>Camila</strong>, tenho 22 anos e estudo tecnologia desde os 13. Sempre fui muito curiosa e autodidata, então o "Não sei" não existe no meu vocabulário, pois estou sempre em busca de respostas. Isso me levou à programação, onde estou constantemente procurando soluções para os grandes desafios da vida real.
+Sou uma desenvolvedora Fullstack apaixonada e dedicada, com sólida experiência em tecnologia e compromisso com o meu autoaperfeiçoamento. Invisto em minhas habilidades desde muito jovem e estou entusiasmada em aprender coisas novas e explorar diferentes culturas. Além de ter experiência em desenvolvimento de software, também participo ativamente de uma organização sem fins lucrativos dedicada a ajudar pessoas necessitadas e animais de rua.
+Possuo experiência profissional em funções como Analista de Testes e Desenvolvedora Fullstack, onde atuei em projetos como plataformas de e-commerce, migração de stack de tecnologia e consultoria de TI para empresas. 
+Minhas habilidades técnicas abrangem uma ampla gama de tecnologias, incluindo HTML, CSS, JavaScript, React, Angular, TypeScript, Node.Js, PHP, MySQL, MongoDB e Java.
 
 <!-- abstract -->
 
-> I'm <strong>Camila</strong>, I'm 22 years old and I've been studying technology since I was 13. I've always been very curious and self-taught, so "I don't know" doesn't exist in my vocabulary, as I'm always looking for answers.
-> This led me to programming, where I am constantly looking for solutions to big real-life challenges.
+> I am a passionate and dedicated Fullstack developer, with solid experience in technology and a commitment to self-improvement. I have been investing in my skills since a young age and I am excited to learn new things and explore different cultures. In addition to my experience in software development, I am also actively involved in a non-profit organization dedicated to helping those in need and street animals.
+> I have professional experience in roles such as Test Analyst and Fullstack Developer, where I worked on projects such as e-commerce platforms, technology stack migration, and IT consulting for companies.
+> My technical skills cover a wide range of technologies, including HTML, CSS, JavaScript, React, Angular, TypeScript, Node.Js, PHP, MySQL, MongoDB, and Java.
 
 
 <div>
