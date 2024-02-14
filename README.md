@@ -6,8 +6,7 @@
 </div>
 
  <div>
-<img align="center" src="https://github.com/Camesis/Camesis/blob/main/github-metrics.svg" alt=" Camila's Metrics" width="400">
-<a href="https://app.daily.dev/Camesis"><img src="https://github.com/Camesis/Camesis/blob/main/devcard.svg" align="right" width="300" alt="Camila's Dev Card"/></a>
+<img align="center" src="https://api.daily.dev/devcards/v2/2pT0aO4fNf76sWdHGgeYL.png?r=8yv" width="356" alt="Camila Correia's Dev Card"/></a>
 </div>
 
 
