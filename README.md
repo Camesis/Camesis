@@ -6,7 +6,7 @@
 </div>
 
  <div>
-<img align="center" src="https://api.daily.dev/devcards/v2/2pT0aO4fNf76sWdHGgeYL.png?r=8yv" width="356" alt="Camila Correia's Dev Card"/></a>
+<a href="https://app.daily.dev/camesis"><img src="https://api.daily.dev/devcards/v2/2pT0aO4fNf76sWdHGgeYL.png?r=8yv" width="356" align="right" alt="Camila Correia's Dev Card"/></a>
 </div>
 
 
