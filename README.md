@@ -24,9 +24,7 @@ Minhas habilidades técnicas abrangem uma ampla gama de tecnologias, incluindo H
 > My technical skills cover a wide range of technologies, including HTML, CSS, JavaScript, React, Angular, TypeScript, Node.Js, PHP, MySQL, MongoDB, and Java.
 
 
-<div>
-<img src="https://github.com/Camesis/Camesis/blob/main/achievements.svg" alt="Achievements" width="100%">
-</div>
+
 
 
 
